@@ -15,4 +15,4 @@ This project demonstrates how to build a personalized movie recommendation syste
 
  ## Live Demo
 - **Note:** The application may take a few seconds to load initially.
-- [Check out the application here!](abhichebiyam-movie-recommender-system-app-nwswyx.streamlit.app/)
+- [Check out the application here!](https://abhichebiyam-movie-recommender-system-app-nwswyx.streamlit.app/)
